@@ -26,7 +26,7 @@ export default defineUserConfig({
   lang: 'en-US',
   title: 'DYAPI docs',
   description: 'another lightweight backend framework',
-
+  base: '/DYAPI_docs/',
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
     locales: {
