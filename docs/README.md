@@ -1,33 +1,34 @@
 ---
 home: true
-title: Home
+title: Welcome
 heroImage: https://vuejs.press/images/hero.png
 actions:
-  - text: Get Started
-    link: /getting-started.html
+  - text: Getting Started
+    link: ./guide/README.md
     type: primary
 
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
+  - text: View on GitHub
+    link: https://github.com/beansproutchina/DYAPI2
     type: secondary
 
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-  - title: Themes
-    details: Providing a default theme out of the box. You can also choose a community theme or create your own one.
-  - title: Plugins
-    details: Flexible plugin API, allowing plugins to provide lots of plug-and-play features for your site.
-  - title: Bundlers
-    details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
+  - title: Lightweight as feather
+    details: Create a backend with only MBs of space
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+  - title: Easy to use
+    details: No need to learn complex syntax. Create your API in a few minutes
+
+  - title: Instant APIs
+    details: Instantly interact with your data with RESTful APIs
+
+  - title: Authenticated
+    details: Secure your APIs with JWT authentication
+
+  - title: Asynchronous
+    details: Fully equipped with async/await support
+
+  - title: And
+    details: ...and more
+
+footer: MIT Licensed | Copyright © 2023-present the DYAS Web Studio
 ---
-
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
-
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
