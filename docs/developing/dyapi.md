@@ -5,6 +5,7 @@ The core module of DYAPI2. It contains the core functions of DYAPI2, such as mid
 ## Classes
 ### Container
 The base class for all containers.
+
 There are two builtin containers:
 - **JSONContainer** `/dyapi/JsonContainer.dyapi.js`
 - **SQLiteContainer** `/dyapi/SQLiteContainer.dyapi.js`

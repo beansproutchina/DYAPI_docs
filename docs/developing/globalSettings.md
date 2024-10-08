@@ -1,6 +1,6 @@
 # Global Settings
 
-The global settings file is `config/settings.js`. It contains the global settings for the project.
+The global settings file is `config/settings.js`. It contains global settings of a project.
 
 ```js
 import crypto from "crypto";
